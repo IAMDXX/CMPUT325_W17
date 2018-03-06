@@ -1,4 +1,4 @@
-#|CMPUT 325 Assignment#2   Yiting Dong 1437908   2017.3.2|#
+#|CMPUT 325 Assignment#2   Yiting Dong   2017.3.2|#
 
 #| Ass#2 Overview
 
