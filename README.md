@@ -17,8 +17,13 @@ The language FL includes a number of primitive functions that should be implemen
 
 
 #| Ass#3 Overview
-
-
+    1) xreverse(+L, ?R)
+    2) xunique(+L, ?O)
+    3) xdiff(+L1, +L2, -L)
+    4) removeLast(+L, ?L1, ?Last)
+    5) clique(L) :- findall(X,node(X),Nodes), xsubset(L,Nodes), allConnected(L).
 
 
 #| Ass#4 Overview
+    1) Four Square
+    2) War and Peace
