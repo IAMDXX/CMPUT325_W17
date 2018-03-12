@@ -1,5 +1,5 @@
 /* CMPUT 325 Assignment #4
-Yiting Dong   1437908
+Yiting Dong 
 */
 
 :- use_module(library(clpfd)).
